@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IntentsProj</string>
+    <string name="tv1">Number 1 :</string>
+    <string name="tv2">Number 2 :</string>
+    <string name="btn1">OK</string>
+    <string name="s1">Sum</string>
+    <string name="b_add">+</string>
+    <string name="b_sub">-</string>
+    <string name="b_mul">x</string>
+    <string name="b_div">/</string>
+</resources>
